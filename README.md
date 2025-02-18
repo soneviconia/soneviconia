@@ -1,8 +1,8 @@
 # Hi, my name is Wejkey
 
-Here, on GH, I put my creations. Things you can use, or if not use, atleast look at them.
-I do these things when Im bored, or when I use them on my other projects. So yeah, you can use them. But 99,99% are useless. But who knows, maybe you find something, you will use like I do. (I hope)
+There's nothing I should put in this 'README'. So in quick. 
 
-My primary project is my [Website](https://wejkey.github.io), you will find most of my projects here. But Im currently working on one, even cooler one :D But I dont know when I put it here. Maybe at the end of february. I dont know. I dont waanna say its big project. Its just.. again, something I do to my own things and I want to see others people reactions.. Or maybe not?
+Here on GH, you will find projects Im currently working on. My focus was on my Website but now im working on another project [SoneMC](https://wejkey.github.io/sonemc).
+Yeah, just another project. I dont honestly care if somebody really use it but im making it because im bored and it makes me happy in my free time :D
 
-But anyway, thanks for the 26,86 seconds of your life that you spent reading this.
+Thanks.
